@@ -1,13 +1,12 @@
-## Hi there 👋
+<h1>Hi, I'm Sebastian! I'm a Management Information Systems student learning Cybersecurity. 
 
-<!--
-**sfranco214/sfranco214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Azure Cloud SOC Analyst (Honeynet in Azure)</b>
+  - https://github.com/sfranco214/AzureCloud-SOC
 
-- 🔭 I’m currently working on cloud security projects in Azure and AWS.
-- 🌱 I’m currently learning cloud security purple team. 
-- 🤔 I’m looking for help with internships for Cybersecuirty Consulting. 
-- 📫 How to reach me: Email: sebfranco0914@gmail.com
-- 😄 Pronouns: He/Him
--->
+
+<h2> 🤳 Connect with me:</h2>
+
+
+sebfranco0914@gmail.com
