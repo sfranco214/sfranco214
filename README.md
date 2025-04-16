@@ -5,6 +5,8 @@
 - <b>Azure Cloud SOC Analyst (Honeynet in Azure)</b>
   - https://github.com/sfranco214/AzureCloud-SOC
 
+- <b>Enterprise Cloud Audit: Penetration Testing, Security Hardening & NIST Compliance in Azure</b>
+  - https://github.com/sfranco214/
 
 <h2> 🤳 Connect with me:</h2>
 
